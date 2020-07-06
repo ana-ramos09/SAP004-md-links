@@ -80,6 +80,7 @@ A seguir você pode conferir os objetivos de aprendizagem deste projeto:
 * [ ] criação de módulos [(CommonJS)](https://nodejs.org/docs/latest-v0.10.x/api/modules.html)
 * [ ] [Configuração do package.json.](https://docs.npmjs.com/files/package.json)
 * [ ] [Configuração do npm-scripts](https://docs.npmjs.com/misc/scripts)
+* [ ] [Configuração do npm-scripts](docs.npmjs.com/misc/scripts)
 * [ ] Uso de CLI (Command Line Interface - Interface de Linha de Comando)
 
 ### Testing
