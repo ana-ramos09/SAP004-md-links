@@ -1,4 +1,43 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "description": "Library for reading links from files in md format",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "Functions": "Functions"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watch",
+    "test-coverage": "jest --coverage"
+  },
+  "bin": {
+    "md-links": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-ramos09/SAP004-md-links.git"
+  },
+  "keywords": [
+    "Library",
+    "Node",
+    "Markdown",
+    "NPM",
+    "Links",
+    "Axios",
+    "Regex"
+  ],
+  "author": "Ana Carolina dos Reis Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ana-ramos09/SAP004-md-links/issues"
+  },
+  "homepage": "https://github.com/ana-ramos09/SAP004-md-links#readme"
 }
